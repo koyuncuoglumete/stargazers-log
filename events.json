@@ -1,5 +1,7 @@
 [
   { "name": "octocat/Hello-World", "starred": "2024-01-15" },
   { "name": "github/docs", "starred": "2024-02-02" },
-  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
+  { "name": "microsoft/vscode", "starred": "2024-03-21" },
+  { "name": "torvalds/linux", "starred": "2024-04-08" },
+  { "name": "facebook/react", "starred": "2024-05-17" }
 ]
